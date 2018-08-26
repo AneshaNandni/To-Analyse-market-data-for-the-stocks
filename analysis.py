@@ -16,7 +16,9 @@ from sklearn.feature_selection import RFE
 from sklearn.datasets import make_classification
 
 from sklearn.linear_model import RandomizedLasso
-
+ import pandas as pd
+    df=pd.read_csv('C:/Users/NCS/Desktop/trainlabels.csv')
+    df.head()
 
 
 np.set_printoptions(threshold=100)
