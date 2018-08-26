@@ -1,0 +1,1 @@
+# To-Analyse-market-data-for-the-stocks
